@@ -1,5 +1,5 @@
 {
-  "github_description": "Deterministic four-role AI workflow\u2014Planner, Researcher, Evaluator, Synthesizer\u2014with RAG evidence handoff and abstention. 10/10 tests.",
+  "github_description": "Deterministic four-role AI workflow—Planner, Researcher, Evaluator, Synthesizer—with RAG evidence handoff and abstention. 10/10 tests.",
   "github_topics": [
     "multi-agent",
     "agentic-ai",
@@ -8,7 +8,7 @@
     "python",
     "evaluation"
   ],
-  "license": "MANUAL_SELECTION_REQUIRED",
+  "license": "MIT",
   "recommended_pin": false,
   "repository_name": "nallar-multi-agent-system",
   "visibility": "public_after_manual_security_review"
